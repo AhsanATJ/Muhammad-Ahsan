@@ -28,6 +28,10 @@ Advanced image processing with Core Image
 Building user-friendly macOS UIs with AppKit
 Handling drag & drop and dynamic layouts in NSCollectionView
 | 📸 <img width="1289" alt="Screenshot 2025-06-22 at 2 15 28 AM" src="https://github.com/user-attachments/assets/d2727417-65c9-48ed-a55e-281ad6f8325f" />
+<img width="1290" alt="Screenshot 2025-06-22 at 2 17 54 AM" src="https://github.com/user-attachments/assets/05b863d9-cd54-4ebb-b41d-597690c4618a" />
+<img width="1284" alt="Screenshot 2025-06-22 at 2 18 19 AM" src="https://github.com/user-attachments/assets/9bba6c61-7454-479c-b649-900fd719508b" />
+
+
 
 
 ---
