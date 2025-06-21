@@ -15,11 +15,20 @@
 
 ## 📱 Projects
 
-### 📌 Globle Guide AI
-AI-powered travel assistant app that shows hotels and translates text to English.  
-**Tech:** Swift, UIKit, Firebase, MVVM  
-🔗![Uploading 1718244949799.jpg…]()
-| 📸 *Add screenshot here*
+### 📌 EffectsApp
+Effect App – A macOS image editor with powerful filters, cropping, and collage-making features built using Swift and AppKit.
+Technologies Used:
+Swift
+AppKit
+Core Image
+NSCollectionView
+MVC Architecture
+💡 What I Learned:
+Advanced image processing with Core Image
+Building user-friendly macOS UIs with AppKit
+Handling drag & drop and dynamic layouts in NSCollectionView
+| 📸 <img width="1289" alt="Screenshot 2025-06-22 at 2 15 28 AM" src="https://github.com/user-attachments/assets/d2727417-65c9-48ed-a55e-281ad6f8325f" />
+
 
 ---
 
