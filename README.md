@@ -50,6 +50,6 @@ You can view or download my resume [here](#). *(Upload your CV to Google Drive o
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/your-profile](#)
-- Email: your.email@example.com
-- GitHub: [github.com/yourusername](#)
+- LinkedIn: [linkedin.com/in/ahsanjr](#)
+- Email:ahsanjr911@gmail.com
+- GitHub: [github.com/AhsanATJ](#)
