@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ahsan
 
-🚀 iOS Developer | Swift Enthusiast | UIKit & SwiftUI Lover  
+🚀 iOS Developer | Swift Enthusiast | UIKit & Swift Lover  
 📍 Based in Pakistan | Passionate about building smooth and scalable iOS apps
 
 ---
@@ -35,10 +35,7 @@
 - **MVVM Architecture**
 - **API Integration**
 - **Custom Text Editor for Image Editing**
-
-
-
-
+--- 
 ### 📌 EffectsApp
 Effect App – A macOS image editor with powerful filters, cropping, and collage-making features built using Swift and AppKit.
 
