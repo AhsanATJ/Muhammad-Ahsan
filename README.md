@@ -15,6 +15,29 @@
 
 ## 📱 Projects
 
+### 📌 QuranVerse
+
+🕌 A beautifully designed Quran app that allows users to:
+- 🔍 **Search any word** from the Quran and get relevant **Ayahs**
+- 📜 View **authentic Hadiths**
+- 🎨 **Edit and create posts** from Ayahs or Hadiths for **Instagram and social sharing**
+- ⚙️ All data is dynamically loaded from an **API**
+
+| 📸  ![1](https://github.com/user-attachments/assets/2761f71e-c5b2-401a-952c-0538e7cb9a69)
+![2](https://github.com/user-attachments/assets/7bf95994-6a42-484f-9934-2d8aeef0a722)
+![3](https://github.com/user-attachments/assets/77277f4a-9ae3-4c4a-be5b-8121771341e1)
+![4](https://github.com/user-attachments/assets/b94d6df2-8c9d-4797-8d0d-a597a38ec6bf)
+
+**Tech Used:**
+- **Swift**
+- **UIKit**
+- **MVVM Architecture**
+- **API Integration**
+- **Custom Text Editor for Image Editing**
+
+
+
+
 ### 📌 EffectsApp
 Effect App – A macOS image editor with powerful filters, cropping, and collage-making features built using Swift and AppKit.
 
