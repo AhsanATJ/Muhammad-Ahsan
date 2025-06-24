@@ -58,18 +58,6 @@ Effect App – A macOS image editor with powerful filters, cropping, and collage
 
 ---
 
-### 📌 Expense Tracker
-A simple app to track daily expenses with Core Data storage.  
-**Tech:** Swift, UIKit, CoreData  
-🔗 [GitHub Repo](#)
-
----
-
-## 📄 Resume
-You can view or download my resume [here](#). *(Upload your CV to Google Drive or GitHub and paste the link.)*
-
----
-
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/ahsanjr)
 - [Email](mailto:ahsanjr911@gmail.com)
