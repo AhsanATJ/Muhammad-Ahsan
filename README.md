@@ -61,7 +61,7 @@ HabitTrack – A clean and simple macOS habit tracker to help users build and ma
 
 ---
 
-### 📌 NotesApp
+### 📌 [NotesApp](https://apps.apple.com/us/app/note-app-for-google-keep/id6744288942?mt=12)
 
 NotesApp – A smart macOS notes app that lets users take notes, chat with an AI assistant, draw freely, and convert images to text.
 
@@ -89,7 +89,7 @@ NotesApp – A smart macOS notes app that lets users take notes, chat with an AI
 - **Vision Framework (OCR)**
 - **AI Chatbot API (custom model)**
 ---
-###  📌 RAR Unarchiver 
+   ### 📌 [RAR Unarchiver](https://apps.apple.com/us/app/rar-extractor-win-unarchiver/id6744827691?mt=12)
 
 Rar Unarchiver  – A lightweight macOS tool to extract ZIP, RAR, TAR, 7z and more with drag & drop support.
 
