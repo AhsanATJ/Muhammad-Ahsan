@@ -37,7 +37,7 @@
 - **Custom Text Editor for Image Editing**
 ---
 
-### 📌 HabitTrack
+### 📌 [HabitTrack](https://apps.apple.com/us/app/habit-planner-daily-reminders/id6742279990?mt=12)
 
 HabitTrack – A clean and simple macOS habit tracker to help users build and maintain daily routines with reminders and streaks.
 
