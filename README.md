@@ -54,8 +54,53 @@ Effect App – A macOS image editor with powerful filters, cropping, and collage
 - **Firebase**
 - **MVVM Architecture**
 
+---
+
+### 📌 HabitTrack
+HabitTrack – A clean and simple macOS habit tracker to help users build and maintain daily routines with reminders and streaks.
+
+**💡 What I Learned:**
+Creating persistent data storage using Core Data
+Using AppKit to build responsive and minimal UIs
+Managing time-based notifications and custom logic for habits
+| 📸 
+<img width="880" height="547" alt="Screenshot 2025-08-02 at 6 44 39 PM" src="https://github.com/user-attachments/assets/ced5442c-b87b-486f-bb31-aede853d3d5a" />
+<img width="874" height="547" alt="Screenshot 2025-08-02 at 6 44 56 PM" src="https://github.com/user-attachments/assets/7708c735-e8c7-4dd8-934b-8fa172d18ce2" />
+<img width="876" height="543" alt="Screenshot 2025-08-02 at 6 45 24 PM" src="https://github.com/user-attachments/assets/ab9f3807-6f5e-490e-9dfa-058f4d7fb5de" />
+
+**Tech Used:**
+Swift
+AppKit
+Core Data
+MVVM Architecture
+
+---
+
+### 📌 NotesApp
+
+NotesApp – A smart macOS notes app that lets users take notes, chat with an AI assistant, draw freely, and convert images to text.
+
+**💡 What I Learned:**
+
+Integrating AI chat using natural language processing
+Implementing canvas-style drawing with AppKit
+Using Vision framework for image-to-text (OCR) conversion
+Managing complex UI interactions with MVVM and Core Data
+
+| 📸 
+<img width="869" height="543" alt="Screenshot 2025-08-02 at 6 45 47 PM" src="https://github.com/user-attachments/assets/8d488772-9a11-43db-a2eb-3251a7fdf1f3" />
+<img width="875" height="543" alt="Screenshot 2025-08-02 at 6 45 57 PM" src="https://github.com/user-attachments/assets/ec69f522-79c4-4265-aa8b-d56fb892c5ec" />
+<img width="875" height="543" alt="Screenshot 2025-08-02 at 6 45 57 PM" src="https://github.com/user-attachments/assets/9b910b6f-75c0-45a4-913c-75691eaf7153" />
 
 
+**Tech Used:**
+
+Swift
+AppKit
+Core Data
+MVVM Architecture
+Vision Framework (OCR)
+AI Chatbot API (custom model)
 ---
 
 ## 📫 Contact
