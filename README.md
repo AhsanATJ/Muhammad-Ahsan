@@ -43,9 +43,9 @@ HabitTrack – A clean and simple macOS habit tracker to help users build and ma
 
 **💡 What I Learned:**
 
-Creating persistent data storage using Core Data
-Using AppKit to build responsive and minimal UIs
-Managing time-based notifications and custom logic for habits
+- Creating persistent data storage using Core Data
+- Using AppKit to build responsive and minimal UIs
+- Managing time-based notifications and custom logic for habits
 | 📸 
 
 <img width="880" height="547" alt="Screenshot 2025-08-02 at 6 44 39 PM" src="https://github.com/user-attachments/assets/ced5442c-b87b-486f-bb31-aede853d3d5a" />
@@ -68,10 +68,10 @@ NotesApp – A smart macOS notes app that lets users take notes, chat with an AI
 
 **💡 What I Learned:**
 
-Integrating AI chat using natural language processing
-Implementing canvas-style drawing with AppKit
-Using Vision framework for image-to-text (OCR) conversion
-Managing complex UI interactions with MVVM and Core Data
+- Integrating AI chat using natural language processing
+- Implementing canvas-style drawing with AppKit
+- Using Vision framework for image-to-text (OCR) conversion
+- Managing complex UI interactions with MVVM and Core Data
 
 | 📸 
 
@@ -95,9 +95,9 @@ Rar Unarchiver  – A lightweight macOS tool to extract ZIP, RAR, TAR, 7z and mo
 
 **💡 What I Learned:**
 
-Working with file system and archive extraction APIs
-Building user-friendly macOS utilities
-Handling large file operations smoothly
+- Working with file system and archive extraction APIs
+- Building user-friendly macOS utilities
+- Handling large file operations smoothly
 
 | 📸 
 <img width="869" height="498" alt="Screenshot 2025-08-02 at 6 46 39 PM" src="https://github.com/user-attachments/assets/8e4cae22-0e6b-4ac6-95f9-26faa2163b51" />
