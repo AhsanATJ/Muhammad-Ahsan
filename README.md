@@ -53,10 +53,11 @@ Managing time-based notifications and custom logic for habits
 <img width="876" height="543" alt="Screenshot 2025-08-02 at 6 45 24 PM" src="https://github.com/user-attachments/assets/ab9f3807-6f5e-490e-9dfa-058f4d7fb5de" />
 
 **Tech Used:**
-Swift
-AppKit
-Core Data
-MVVM Architecture
+
+- **Swift**
+- **AppKit**
+- **Core Data**
+- **MVVM Architecture**
 
 ---
 
@@ -81,12 +82,12 @@ Managing complex UI interactions with MVVM and Core Data
 
 **Tech Used:**
 
-Swift
-AppKit
-Core Data
-MVVM Architecture
-Vision Framework (OCR)
-AI Chatbot API (custom model)
+- **Swift**
+- **AppKit**
+- **Core Data**
+- **MVVM Architecture**
+- **Vision Framework (OCR)**
+- **AI Chatbot API (custom model)**
 ---
 
 ## 📫 Contact
