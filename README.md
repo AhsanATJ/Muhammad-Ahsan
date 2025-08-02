@@ -100,6 +100,7 @@ Rar Unarchiver  – A lightweight macOS tool to extract ZIP, RAR, TAR, 7z and mo
 - Handling large file operations smoothly
 
 | 📸 
+
 <img width="869" height="498" alt="Screenshot 2025-08-02 at 6 46 39 PM" src="https://github.com/user-attachments/assets/8e4cae22-0e6b-4ac6-95f9-26faa2163b51" />
 <img width="871" height="495" alt="Screenshot 2025-08-02 at 6 46 49 PM" src="https://github.com/user-attachments/assets/ec6cafb4-4b78-4d11-b084-cb8ed4c1f844" />
 <img width="872" height="497" alt="Screenshot 2025-08-02 at 6 47 06 PM" src="https://github.com/user-attachments/assets/7af7ab7a-477b-474f-a6a4-ec27df68765e" />
