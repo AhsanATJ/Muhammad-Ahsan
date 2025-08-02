@@ -35,35 +35,19 @@
 - **MVVM Architecture**
 - **API Integration**
 - **Custom Text Editor for Image Editing**
---- 
-### 📌 EffectsApp
-Effect App – A macOS image editor with powerful filters, cropping, and collage-making features built using Swift and AppKit.
-
-**💡 What I Learned:**
-- **Advanced image processing with Core Image**
-- **Building user-friendly macOS UIs with AppKit**
-- **Handling drag & drop and dynamic layouts in NSCollectionView**
-
-| 📸 <img width="1289" alt="Screenshot 2025-06-22 at 2 15 28 AM" src="https://github.com/user-attachments/assets/d2727417-65c9-48ed-a55e-281ad6f8325f" />
-<img width="1290" alt="Screenshot 2025-06-22 at 2 17 54 AM" src="https://github.com/user-attachments/assets/05b863d9-cd54-4ebb-b41d-597690c4618a" />
-<img width="1284" alt="Screenshot 2025-06-22 at 2 18 19 AM" src="https://github.com/user-attachments/assets/9bba6c61-7454-479c-b649-900fd719508b" />
-
-**Tech Used:**
-- **Swift**
-- **UIKit**
-- **Firebase**
-- **MVVM Architecture**
-
 ---
 
 ### 📌 HabitTrack
+
 HabitTrack – A clean and simple macOS habit tracker to help users build and maintain daily routines with reminders and streaks.
 
 **💡 What I Learned:**
+
 Creating persistent data storage using Core Data
 Using AppKit to build responsive and minimal UIs
 Managing time-based notifications and custom logic for habits
 | 📸 
+
 <img width="880" height="547" alt="Screenshot 2025-08-02 at 6 44 39 PM" src="https://github.com/user-attachments/assets/ced5442c-b87b-486f-bb31-aede853d3d5a" />
 <img width="874" height="547" alt="Screenshot 2025-08-02 at 6 44 56 PM" src="https://github.com/user-attachments/assets/7708c735-e8c7-4dd8-934b-8fa172d18ce2" />
 <img width="876" height="543" alt="Screenshot 2025-08-02 at 6 45 24 PM" src="https://github.com/user-attachments/assets/ab9f3807-6f5e-490e-9dfa-058f4d7fb5de" />
@@ -80,6 +64,7 @@ MVVM Architecture
 
 NotesApp – A smart macOS notes app that lets users take notes, chat with an AI assistant, draw freely, and convert images to text.
 
+
 **💡 What I Learned:**
 
 Integrating AI chat using natural language processing
@@ -88,6 +73,7 @@ Using Vision framework for image-to-text (OCR) conversion
 Managing complex UI interactions with MVVM and Core Data
 
 | 📸 
+
 <img width="869" height="543" alt="Screenshot 2025-08-02 at 6 45 47 PM" src="https://github.com/user-attachments/assets/8d488772-9a11-43db-a2eb-3251a7fdf1f3" />
 <img width="875" height="543" alt="Screenshot 2025-08-02 at 6 45 57 PM" src="https://github.com/user-attachments/assets/ec69f522-79c4-4265-aa8b-d56fb892c5ec" />
 <img width="875" height="543" alt="Screenshot 2025-08-02 at 6 45 57 PM" src="https://github.com/user-attachments/assets/9b910b6f-75c0-45a4-913c-75691eaf7153" />
