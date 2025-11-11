@@ -36,6 +36,33 @@
 - **API Integration**
 - **Custom Text Editor for Image Editing**
 ---
+### 📌 [AI ChatBot](https://apps.apple.com/us/app/ai-chat-image-generator/id6754548508#information)
+
+AI ChatBot – An intelligent iOS chat assistant that helps users get instant answers, generate creative ideas, and even create AI-powered images. Designed with a clean and minimal interface for a smooth, human-like conversation experience.
+
+💡 What I Learned:
+
+Integrating AI APIs for natural text and image generation
+Building responsive and minimal chat UIs using UIKit
+Managing conversation state and context effectively
+
+Handling image rendering and asynchronous API responses
+| 📸 
+
+![1](https://github.com/user-attachments/assets/7ebe85c5-9ea1-4fbd-b37a-0204b344b172)
+![2](https://github.com/user-attachments/assets/77b32cab-b034-4c79-b641-583c5968e957)
+![3](https://github.com/user-attachments/assets/ca1af2c6-d8cd-4667-80f5-b97f96cc8245)
+![4](https://github.com/user-attachments/assets/2973f68d-e868-42c8-9855-c9c6f66cc141)
+
+
+**Tech Used:**
+
+- **Swift**
+- **AppKit**
+- **Core Data**
+- **MVVM Architecture**
+
+---
 
 ### 📌 [HabitTrack](https://apps.apple.com/us/app/habit-planner-daily-reminders/id6742279990?mt=12)
 
