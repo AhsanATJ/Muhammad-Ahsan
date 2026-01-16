@@ -70,12 +70,15 @@ Envato Elements is a powerful macOS application that allows users to browse and 
 
 **💡 What I Learned:**
 
-Designing and implementing persistent data storage using Core Data
-Building modern, responsive, and minimal macOS UIs using AppKit
-Integrating AWS S3 buckets for secure and scalable asset storage & downloads
-Implementing AI-powered features (image/logo generation, chatbot, background remover)
-Managing file downloads, caching, and local asset handling
-Applying MVVM architecture for clean separation of concerns and maintainable code
+Implemented secure and scalable asset storage & downloads using AWS S3 buckets
+Built persistent local data management with Core Data for user data and app state
+Designed macOS-native, responsive UIs using AppKit with a focus on performance and simplicity
+Integrated AI-powered features including image generation, logo generation, chatbot, and background removal
+Managed large file downloads, caching, and local file handling for assets like fonts and design files
+Applied MVVM architecture to ensure clean code structure and maintainability
+Implemented API integrations for dynamic content and AI services
+Handled state management and async operations for smooth user experience
+Improved app performance and scalability for asset-heavy workflows
 
 | 📸 
 
