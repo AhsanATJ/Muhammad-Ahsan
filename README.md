@@ -64,6 +64,37 @@ Handling image rendering and asynchronous API responses
 
 ---
 
+### 📌 [Envato Elements](https://apps.apple.com/us/app/envato-elements-assets/id6757427246?mt=12)
+
+Envato Elements is a powerful macOS application that allows users to browse and download a wide range of digital assets, including fonts, Photoshop files, Illustrator files, images, icons, and logos. The app also integrates AI-powered tools such as image generation, logo generation, a chatbot, and background removal, providing an all-in-one creative solution for designers and content creators.
+
+**💡 What I Learned:**
+
+Designing and implementing persistent data storage using Core Data
+Building modern, responsive, and minimal macOS UIs using AppKit
+Integrating AWS S3 buckets for secure and scalable asset storage & downloads
+Implementing AI-powered features (image/logo generation, chatbot, background remover)
+Managing file downloads, caching, and local asset handling
+Applying MVVM architecture for clean separation of concerns and maintainable code
+
+| 📸 
+
+<img width="1151" height="715" alt="Screenshot 2026-01-17 at 1 18 47 AM" src="https://github.com/user-attachments/assets/415e603a-7753-4f1f-a9f1-726d6bd6d9d4" />
+<img width="1154" height="725" alt="Screenshot 2026-01-17 at 1 19 04 AM" src="https://github.com/user-attachments/assets/2da89300-5617-482c-9730-90f9d450d81e" />
+<img width="1151" height="722" alt="Screenshot 2026-01-17 at 1 19 27 AM" src="https://github.com/user-attachments/assets/c3b748a8-2f58-4f22-ad1e-1fe23519db43" />
+
+
+**Tech Used:**
+
+- **Swift**
+- **AppKit**
+- **Core Data**
+- **AWS S3**
+- **MVVM Architecture**
+- **AI / API Integrations**
+  
+---
+
 ### 📌 [HabitTrack](https://apps.apple.com/us/app/habit-planner-daily-reminders/id6742279990?mt=12)
 
 HabitTrack – A clean and simple macOS habit tracker to help users build and maintain daily routines with reminders and streaks.
