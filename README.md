@@ -64,7 +64,7 @@ Handling image rendering and asynchronous API responses
 
 ---
 ---
-📌  [Period Tracker](https://apps.apple.com/us/app/period-tracker-flo-cycle/id6758989548?mt=12)
+### 📌 [Period Tracker](https://apps.apple.com/us/app/period-tracker-flo-cycle/id6758989548?mt=12)
 
 Period Tracker is a macOS application built with SwiftUI that helps users confidently track their menstrual cycle, symptoms, moods, and personal notes in a private and structured way. The focus of this app is simplicity, usability, and local-first data privacy.
 This project helped me strengthen my understanding of real-world state management, data persistence, and clean architecture in SwiftUI.
@@ -80,13 +80,10 @@ Designing intuitive macOS-native UI components
 Handling image rendering and asynchronous API responses
 | 📸 
 
-![1]<img width="1742" height="1096" alt="Screenshot 2026-02-23 at 9 03 00 PM" src="https://github.com/user-attachments/assets/3d18487b-9ed6-4eb7-86d4-5dc472800550" />
-![2]<img width="1738" height="1096" alt="Screenshot 2026-02-23 at 9 03 12 PM" src="https://github.com/user-attachments/assets/26ee13c7-7a49-47cb-bfc1-8f4baed14335" />
-![3]<img width="1710" height="1092" alt="Screenshot 2026-02-23 at 9 03 32 PM" src="https://github.com/user-attachments/assets/ed5b3021-796d-4879-9c21-86ce1f39e254" />
-![4]<img width="1720" height="1092" alt="Screenshot 2026-02-23 at 9 03 42 PM" src="https://github.com/user-attachments/assets/b3e72397-9e09-4db6-93c2-ebb7e84d36a0" />
-
-
-
+<img width="1742" height="1096" alt="Screenshot 2026-02-23 at 9 03 00 PM" src="https://github.com/user-attachments/assets/3d18487b-9ed6-4eb7-86d4-5dc472800550" />
+<img width="1738" height="1096" alt="Screenshot 2026-02-23 at 9 03 12 PM" src="https://github.com/user-attachments/assets/26ee13c7-7a49-47cb-bfc1-8f4baed14335" />
+<img width="1710" height="1092" alt="Screenshot 2026-02-23 at 9 03 32 PM" src="https://github.com/user-attachments/assets/ed5b3021-796d-4879-9c21-86ce1f39e254" />
+<img width="1720" height="1092" alt="Screenshot 2026-02-23 at 9 03 42 PM" src="https://github.com/user-attachments/assets/b3e72397-9e09-4db6-93c2-ebb7e84d36a0" />
 
 **Tech Used:**
 
